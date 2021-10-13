@@ -1,10 +1,10 @@
-Nama  : Cindy Oktaviani Eka Prasasti
+Nama  : Nelly Maulia
 
-NIM   : E41200289
+NIM   : E412024664
 
 Prodi : Teknik Informatika
 
-Gol   : A
+Gol   : B Bondowoso
 
 TUGAS MINGGU 5 ( BUTTOM NAVIGATION )
 
